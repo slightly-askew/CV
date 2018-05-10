@@ -1,6 +1,6 @@
 # Oli Askew
 
-**Product Designer**
+**PRODUCT DESIGNER**
 
 Sydney, Australia
 
