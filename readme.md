@@ -6,6 +6,7 @@ A user-centred Product Designer with experience in UX research and design, UI an
 
 ## Currently living in Sydney, Australia
 
+Get in touch
 ------|-------
 Call: | oli@oaskew.co.uk
 Connect: | [LinkedIn](https://www.linkedin.com/in/oliver-askew-5791a333/)
