@@ -9,17 +9,17 @@ Currently living in Sydney, Australia
 
 ## Competencies
 
-* User-centred UX Design
+* User-Centred UX Design
 * Information Architecture
 * Content Strategy & UX writing
 * Client/Stakeholder Management
-* Lean UXD cycles and Design Sprints
-* User research and synthesis
+* Lean UXD Cycles and Design Sprints
+* User Research and Synthesis
 * UI Design
-* User testing
-* Low/high-fidelity prototyping
-* Design systems and component libraries
-* Front-end programming and Single-Page Applications
+* User Testing
+* Low/high-fidelity Prototyping
+* Design Systems and Component Libraries
+* Front-end Programming and Single-Page Applications
 * Scrum and Kanban Product Owner experience
 
 ## Tools
