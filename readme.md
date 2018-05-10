@@ -4,12 +4,10 @@
 
 A user-centred Product Designer with experience in UX research and design, UI and design systems, front-end programming and Agile Project Management. Able to use a broad understanding of digital products and communication skills to fill the spaces between team disciplines and elevate production output.
 
-## Currently living in Sydney, Australia
+Currently living in Sydney, Australia
 
-Get in touch
-------|-------
-Call: | oli@oaskew.co.uk
-Connect: | [LinkedIn](https://www.linkedin.com/in/oliver-askew-5791a333/)
+Email: oli@oaskew.co.uk\
+Connect: [LinkedIn](https://www.linkedin.com/in/oliver-askew-5791a333/)
 
 ## Competencies
 
