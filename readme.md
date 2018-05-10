@@ -2,7 +2,7 @@
 
 **Product Designer**
 
-### Sydney, Australia :flag-au:
+Sydney, Australia
 
 A user-centred Product Designer with experience in UX research and design, UI and design systems, front-end programming and Agile Project Management.
 Able to use a broad understanding of digital products and communication skills to fill the spaces between team disciplines and elevate production output.
@@ -24,17 +24,18 @@ Able to use a broad understanding of digital products and communication skills t
 
 ## Tools
 
-### Research
+<details>
+<summary>**Research**</summary>
 
 * Google Analytics (Google Cert)
 * FullStory / HotJar / CrazyEgg
 * Hubspot
 * Google Optimise
 
-### Design
+</details>
 
 <details>
-<summary>Design</summary>
+<summary>**Design**</summary>
 
 * Sketch
 * InVision
@@ -47,7 +48,8 @@ Able to use a broad understanding of digital products and communication skills t
 
 </details>
 
-### Code
+<details>
+<summary>**Code**</summary>
 
 * HTML5/CSS3/SVG
 * JavaScript
@@ -58,10 +60,14 @@ Able to use a broad understanding of digital products and communication skills t
 * WebPack
 * Git
 
-### Platforms
+</details>
+
+<details>
+<summary>**Platforms**</summary>
 
 * WordPress
 * Contentful
 * Magento
 * Adobe BC
-*
+
+</details>
