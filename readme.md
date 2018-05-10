@@ -25,7 +25,7 @@ Able to use a broad understanding of digital products and communication skills t
 ## Tools
 
 <details>
-<summary>**Research**</summary>
+<summary>Research</summary>
 
 * Google Analytics (Google Cert)
 * FullStory / HotJar / CrazyEgg
@@ -35,7 +35,7 @@ Able to use a broad understanding of digital products and communication skills t
 </details>
 
 <details>
-<summary>**Design**</summary>
+<summary>Design</summary>
 
 * Sketch
 * InVision
@@ -49,7 +49,7 @@ Able to use a broad understanding of digital products and communication skills t
 </details>
 
 <details>
-<summary>**Code**</summary>
+<summary>Code</summary>
 
 * HTML5/CSS3/SVG
 * JavaScript
@@ -63,7 +63,7 @@ Able to use a broad understanding of digital products and communication skills t
 </details>
 
 <details>
-<summary>**Platforms**</summary>
+<summary>Platforms</summary>
 
 * WordPress
 * Contentful
