@@ -44,7 +44,7 @@ Currently living in Sydney, Australia
 * Affinity Designer
 * FlowMapp
 * LucidCharts
-* Pen and paper
+* Good old Pen and Paper
 
 </details>
 
