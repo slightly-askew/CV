@@ -113,7 +113,8 @@ _February 2012 – December 2013 · Norwich, UK_
 
 ## Education
 
-###A-level
+### A-level
+
 _2001–2003 · Norwich, UK_
 
 * Sociology
@@ -121,7 +122,8 @@ _2001–2003 · Norwich, UK_
 * Maths & Statistics
 * English Literature
 
-###GCSE
+### GCSE
+
 _1999–2001 · Norwich, UK_
 
 * 2x A`*` grade
