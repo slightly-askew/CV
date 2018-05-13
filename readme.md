@@ -101,7 +101,7 @@ _December 2013 – August 2016 · Norwich, UK_
 
 * Introduced UX research and Information Architecture deliverables such as user personas and wireframes, as part of our design/development process to improve the quality of our output and strengthen stakeholder/client buy-in.
 * Increased average client spend per website as a result of completing paid UX research/discovery deliverables and creative workshops.
-* Delivered a mobile app UX research and design strategy for local government, including user research, synthesis, ideation prototyping and user testing.
+* Delivered a mobile app UX research and design strategy for local government, including user research, synthesis, ideation, prototyping and user testing.
 
 ### Archant
 
@@ -110,3 +110,20 @@ _February 2012 – December 2013 · Norwich, UK_
 * Digital marketing and sales for a daily-deal start-up, owned by the UK’s largest independent publisher.
 * Road-mapping platform improvements to improve user experience across mobile and web applications, improve SEO and optimise paid-search ROAS.
 * Brokering daily-deal promotions with local businesses and training Archant's wider sales teams to promote the platform to their advertising clients.
+
+## Education
+
+###A-level
+_2001–2003 · Norwich, UK_
+
+* Sociology
+* Music Technology
+* Maths & Statistics
+* English Literature
+
+###GCSE
+_1999–2001 · Norwich, UK_
+
+* 2x A`*` grade
+* 5x A grade
+* 2x B grade
