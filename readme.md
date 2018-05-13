@@ -126,6 +126,6 @@ _2001–2003 · Norwich, UK_
 
 _1999–2001 · Norwich, UK_
 
-* 2x A`*` grade
+* 2x A\* grade
 * 5x A grade
 * 2x B grade
